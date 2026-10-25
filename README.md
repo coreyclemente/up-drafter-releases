@@ -1,5 +1,8 @@
 # UpDrafter
 
+> **UpDrafter has moved to [squaduplabs/updrafter-releases](https://github.com/squaduplabs/updrafter-releases/releases/latest).** This repo is archived
+> and gets no more updates: install the latest version from there.
+
 A Mac app for writing whole Slack threads ahead of time. Write the parent message and every reply in one plain text
 document, see it exactly as Slack will show it, pick a channel or person, and send. The messages go out in order, as
 you, about a second apart. It used to be called Slack Drafter.
